@@ -1,8 +1,10 @@
 # Shibasaki & Shimada 2018
 
 The codes are used for the simulations in :
-* Shibasaki and Shimada, (2018), Cyclic dominance emerges from 
-the two cooperative behaviros in the social amoeba.
+* S. Shibasaki and M. Shimada, (2018), Cyclic dominance emerges from 
+the two inter-linked cooperative behaviros in the social amoeba.
+You can find the main text at http://dx.doi.org/10.1098/rspb.2018.0905.
+The preprint is also available at  https://doi.org/10.1101/251553.
 
 # Description  
 ## Asexual Continuous Replicator.py  
